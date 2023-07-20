@@ -1,4 +1,4 @@
-# Proz-executar_funcoes_cod
+# Proz-executar_funcoes_de_codigos
 
 ## Introdução a programação-Ativ 3_Code Park 1
 
